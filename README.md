@@ -47,6 +47,16 @@ Key tables include:
   **Organic Raspberries → Organic Strawberries** with a lift of **2.14**.  
   Customers buying organic raspberries are highly likely to also buy organic strawberries.
 - Bundling opportunities exist between fresh produce and specific fruits.
+  
+---
+
+## 📸 Screenshots
+
+### **Dashboard – Page 1: Overview**
+![Dashboard Page 1](C:\Users\Ankita Mall\OneDrive\Pictures\Screenshots\Screenshot (18).png)
+
+### **Dashboard – Page 2: Association Rules**
+![Dashboard Page 2](C:\Users\Ankita Mall\OneDrive\Pictures\Screenshots\Screenshot (19).png)
 
 ---
 
