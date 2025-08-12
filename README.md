@@ -50,15 +50,6 @@ Key tables include:
   
 ---
 
-## 📸 Screenshots
-
-### **Dashboard – Page 1: Overview**
-![Dashboard Page 1](C:\Users\Ankita Mall\OneDrive\Pictures\Screenshots\Screenshot (18).png)
-
-### **Dashboard – Page 2: Association Rules**
-![Dashboard Page 2](C:\Users\Ankita Mall\OneDrive\Pictures\Screenshots\Screenshot (19).png)
-
----
 
 ## 🚀 How to Use
 1. **Clone the repository**
