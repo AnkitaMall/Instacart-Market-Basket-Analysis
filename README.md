@@ -6,7 +6,7 @@ The goal of this project is to analyze customer purchase behavior on the Instaca
 ---
 
 ## 📂 Dataset Source
-The dataset was obtained from the **[Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)**, which contains over 3 million orders from more than 200,000 Instacart users.  
+The dataset was obtained from the **[Instacart Online Grocery Shopping Dataset 2017](https://www.kaggle.com/code/viveksrinivasan/eda-on-instacart-market-basket-analysis)**, which contains over 3 million orders from more than 200,000 Instacart users.  
 Key tables include:
 - **Orders**: Order details with day/time of purchase
 - **Products**: Product names and categories
